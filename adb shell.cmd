@@ -46,7 +46,7 @@ echo Dynamic lockscreen service
 adb shell pm uninstall -k --user 0 com.vlife.vivo.wallpaper
 
 echo Easyshare
-adb shell pm uninstall -k --user 0 com.vivo.Easyshare
+adb shell pm uninstall -k --user 0 com.vivo.easyshare
 
 echo Feedback
 adb shell pm uninstall -k --user 0 com.vivo.feedback
